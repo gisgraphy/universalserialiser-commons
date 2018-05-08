@@ -4,9 +4,9 @@
 	<groupId>com.gisgraphy</groupId>
 	<artifactId>universalserialiser-commons</artifactId>
 	<packaging>jar</packaging>
-	<version>3.0</version>
+	<version>5.0</version>
 	<name>universalserialiser</name>
-	<url>http://code.google.com/p/universalserialiser/</url>
+	<url>https://github.com/gisgraphy/universalserialiser</url>
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
