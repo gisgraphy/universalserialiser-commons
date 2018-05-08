@@ -5,7 +5,7 @@
 	<artifactId>universalserialiser-commons</artifactId>
 	<packaging>jar</packaging>
 	<version>5.0</version>
-	<name>universalserialiser</name>
+	<name>universalserialiser-commons</name>
 	<url>https://github.com/gisgraphy/universalserialiser-commons</url>
 	<dependencies>
 		<dependency>
